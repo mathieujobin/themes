@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=bg.png linkcolor=#88dddd>
-<img src=logo.png x=0 y=0>
+<img src=/e16themes/E-TechHydro/e16/ABOUT/logo.png x=0 y=0>
 <font face=decker/14 color=#000000>
 <br>
 <br>

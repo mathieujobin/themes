@@ -1,6 +1,6 @@
 <page columns=1 padding=16 name=front background=Edoc_bg.png linkcolor=#88dddd>
 
-<img src=title.png x=150 y=15>
+<img src=/e16themes/Geesh/e16/ABOUT/title.png x=150 y=15>
 
 <font face=aircut3/12 color=#ffffff>
 <p align=50%>

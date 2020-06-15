@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=bg.png linkcolor=#88dddd>
-<img src=logo.png x=170 y=60>
+<img src=/e16themes/BlueSteel/e16/ABOUT/logo.png x=170 y=60>
 <font face=vixar/14 color=#ffffff>
 
 <br>

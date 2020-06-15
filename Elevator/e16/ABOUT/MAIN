@@ -1,6 +1,6 @@
 <page columns=1 padding=16 name=front background=bg.png linkcolor=#88dddd>
 
-<img src=logo.png x=257 y=5>
+<img src=/e16themes/Elevator/e16/ABOUT/logo.png x=257 y=5>
 <font face=tahoma/9 color=#ffffff>
 
 <br>

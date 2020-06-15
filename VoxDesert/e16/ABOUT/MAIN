@@ -1,6 +1,6 @@
 <page columns=1 padding=16 name=front background=Edoc_bg.png linkcolor=#88dddd>
 
-<img src=desert_vox.png  x=120 y=15>
+<img src=/e16themes/VoxDesert/e16/ABOUT/desert_vox.png  x=120 y=15>
 
 <font face=aircut3/12 color=#000066>
 <p align=50%>

@@ -1,8 +1,8 @@
 <page columns=1 padding=10 name=front background=about-back.png linkcolor=#ffffff>
 
-<img src=about-elogo.png x=25 y=5>
+<img src=/e16themes/Spring/e16/ABOUT/about-elogo.png x=25 y=5>
 
-<img src=about-spring.png x=285 y=130>
+<img src=/e16themes/Spring/e16/ABOUT/about-spring.png x=285 y=130>
 
 <font face=VeraBd/26 color=#237d10>
 <p align=0%>

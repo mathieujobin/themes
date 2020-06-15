@@ -1,5 +1,5 @@
 <page columns=1  linkcolor=#e0e0ff padding=8 name=front background=background.png>
-<img src=ganymede.png x=40 y=40>
+<img src=/e16themes/Ganymede/e16/ABOUT/ganymede.png x=40 y=40>
 <font face=ganymede/12 color=#ffffff>
 <p align=50%>
 <br>
@@ -34,7 +34,7 @@ Release 0.5, E Config Level 0, December 27, 1999
 
 
 <page columns=1 padding=8 name=theme linkcolor=#ffff00 background=background.png>
-<img src=bullet.gif x=8 y=42>
+<img src=/e16themes/Ganymede/e16/ABOUT/bullet.gif x=8 y=42>
 <font face=ganymede/12 color=#ffffff>
 <p align=50%>
 The Ganymede Theme -- Features:
@@ -59,9 +59,9 @@ for menus, comes in a titled flavour and a simpler, rectangular one.<br>
 
 
 <page columns=1 padding=8 name=theme2 linkcolor=#ffff00 background=background.png>
-<img src=bullet.gif x=8 y=8>
-<img src=econtrol.png x=8 y=127>
-<img src=pulldowns.png x=8 y=185>
+<img src=/e16themes/Ganymede/e16/ABOUT/bullet.gif x=8 y=8>
+<img src=/e16themes/Ganymede/e16/ABOUT/econtrol.png x=8 y=127>
+<img src=/e16themes/Ganymede/e16/ABOUT/pulldowns.png x=8 y=185>
 <p align=0%>
 <font face=ganymede/12 color=#ffffff>
 The Buttons:
@@ -90,7 +90,7 @@ Just use the same syntax like for your file.menu. Remember that you don't need t
 
 
 <page columns=1 padding=8 name=theme2 linkcolor=#ffff00 background=background.png>
-<img src=bullet.gif x=8 y=43>
+<img src=/e16themes/Ganymede/e16/ABOUT/bullet.gif x=8 y=43>
 <p align=0%>
 <font face=ganymede/12 color=#ffffff>
 Border items:

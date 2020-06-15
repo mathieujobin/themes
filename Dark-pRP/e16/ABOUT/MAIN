@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=bg.jpg linkcolor=#88dddd>
-<img src=logo.png x=83 y=25>
+<img src=/e16themes/Dark-pRP/e16/ABOUT/logo.png x=83 y=25>
 <font face=vixar/12 color=#ffffff>
 <p align=50%>
 <br>

@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=bg.png linkcolor=#008800>
-<img src=title.png x=185 y=40>
+<img src=/e16themes/Jander/e16/ABOUT/title.png x=185 y=40>
 <font face=aircut3/12 color=#009900>
 <p align=50%>
 <br>
@@ -28,7 +28,7 @@ Enjoy the theme !
 
 
 <page columns=1 padding=16 name=more background=bg.png linkcolor=#008800>
-<img src=title.png x=185 y=40>
+<img src=/e16themes/Jander/e16/ABOUT/title.png x=185 y=40>
 <font face=aircut3/12 color=#009900>
 <p align=50%>
 <br>

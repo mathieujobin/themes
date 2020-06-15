@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=back.png linkcolor=#88dddd>
-<img src=title2.png x=10 y=10>
+<img src=/e16themes/NQBE/e16/ABOUT/title2.png x=10 y=10>
 <font face=vixar/14 color=#ffffff>
 <p>
 <br>
@@ -18,4 +18,4 @@ The artwork and configuration were done by sellout
 (http://technomadic.org/sellout/).  If you have any suggestions
 (authenticity comes before convenience) please send them along to
 sellout@technomadic.org.  Thanks.
-<img src=title.png x=208 y=350>
+<img src=/e16themes/NQBE/e16/ABOUT/title.png x=208 y=350>

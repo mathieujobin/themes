@@ -1,5 +1,5 @@
 <page columns=1 padding=1 background=./about.png linkcolor=#565656>
-<img src=title.png x=0 y=0>
+<img src=/e16themes/Frub/e16/ABOUT/title.png x=0 y=0>
 <font face=avgardm/12 color=#aaaaaa>
 <p align=75%>
 <br>
@@ -7,8 +7,8 @@
 About...<br>
 ...the _author(author)
 </p>
-<img src=line.png x=0 y=203>
-<img src=maven.png x=0 y=205>
+<img src=/e16themes/Frub/e16/ABOUT/line.png x=0 y=203>
+<img src=/e16themes/Frub/e16/ABOUT/maven.png x=0 y=205>
 <font face=avgardm/9 color=#aaaaaa>
 <p>
 <br>

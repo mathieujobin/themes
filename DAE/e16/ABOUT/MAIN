@@ -76,22 +76,22 @@
     Here is a list of the currently supported widgets and corresponding action
     classes.
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     _Stick(stick) The stick widget
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     _Close(kill) The close widget
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
     _Shade(shade) The shade widget
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     _Shade(shadeside) Side The shade side widget
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
     _Minimise(iconify) The stick widget
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
     _Maximise(maximise) The stick widget
     <br>
@@ -114,27 +114,27 @@
     <p>
     <p>
     <p>
-    <img src=images/stick_clicked.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_clicked.png x=10 y=90>
     <p align=20%>
     The effect is like nailing the window down. 
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     To activate stick, simply click (left,middle or right) on the widget.
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     All the widgets on the window will have changed as a visual aid to let you
     know that the window is stuck.
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
     <br>
     <p>
-    <img src=images/unstuck.png x=10 y=288>
+    <img src=/e16themes/DAE/e16/ABOUT/images/unstuck.png x=10 y=288>
     <p align=50%>This is an example of a normal border.
-    <img src=images/stuck.png x=10 y=318>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stuck.png x=10 y=318>
     <p align=50%>This is an example of a "stuck" border.
     <br>
     <br>
@@ -151,22 +151,22 @@
     <p>
     <p>
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     Left click to close the window.
-    <img src=images/close_clicked.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_clicked.png x=10 y=120>
     <p align=20%>
     Right click to Anihilate the window
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
     
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     This one's mailnly usefull for zombied/dead/unco-operative apps
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
     
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
     <br>
     <p>
@@ -188,22 +188,22 @@
     desktop
     <p>
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     
-    <img src=images/shade_clicked.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_clicked.png x=10 y=150>
     <p align=20%>
     
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
     
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
 
 <page columns=1 padding=12 name=shadeside background=Edoc_bg.png linkcolor=#88dddd>
@@ -215,22 +215,22 @@
     <p align=50%>
     <p>
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
     
-    <img src=images/shade_side_clicked.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_clicked.png x=10 y=180>
     <p align=20%>
     
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
     
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
 
 <page columns=1 padding=12 name=iconify background=Edoc_bg.png linkcolor=#88dddd>
@@ -242,22 +242,22 @@
     <p align=50%>
     <p>
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
     
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     
-    <img src=images/minimise_clicked.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_clicked.png x=10 y=210>
     <p align=20%>
     
-    <img src=images/maximise_active.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_active.png x=10 y=240>
     <p align=20%>
 
 <page columns=1 padding=12 name=maximise background=Edoc_bg.png linkcolor=#88dddd>
@@ -269,22 +269,22 @@
     <p align=50%>
     <p>
     <p>
-    <img src=images/stick_active.png x=10 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/images/stick_active.png x=10 y=90>
     <p align=20%>
     
-    <img src=images/close_active.png x=10 y=120>
+    <img src=/e16themes/DAE/e16/ABOUT/images/close_active.png x=10 y=120>
     <p align=20%>
     
-    <img src=images/shade_active.png x=10 y=150>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_active.png x=10 y=150>
     <p align=20%>
     
-    <img src=images/shade_side_active.png x=10 y=180>
+    <img src=/e16themes/DAE/e16/ABOUT/images/shade_side_active.png x=10 y=180>
     <p align=20%>
     
-    <img src=images/minimise_active.png x=10 y=210>
+    <img src=/e16themes/DAE/e16/ABOUT/images/minimise_active.png x=10 y=210>
     <p align=20%>
     
-    <img src=images/maximise_clicked.png x=10 y=240>
+    <img src=/e16themes/DAE/e16/ABOUT/images/maximise_clicked.png x=10 y=240>
     <p align=20%>
 
 <page columns=1 padding=12 name=borders background=Edoc_bg.png linkcolor=#88dddd>
@@ -377,7 +377,7 @@
     <br>
     <br>
     <p align=50%>
-    <img src=mug_shot.png x=90 y=90>
+    <img src=/e16themes/DAE/e16/ABOUT/mug_shot.png x=90 y=90>
     <p align=50%>
     If you want to know more point your browser at 
     http://www.bonvogue.com/~anera

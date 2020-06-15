@@ -1,5 +1,5 @@
 <page columns=1 padding=15 name=front background=../artwork/common/dot_grey.png>
-<img src=../artwork/backgrounds/gtk_overlay.png x=168 y=10>
+<img src=/e16themes/GTK+/e16/ABOUT/../artwork/backgrounds/gtk_overlay.png x=168 y=10>
 <font face=-*-helvetica-bold-r-normal-*-34-*-*-*-p-*-iso8859-1 color=#000000><p align=50%>
 <br>
 <br>

@@ -3,7 +3,7 @@ name=page1>
 <font face=8x13 color=#660000>
 
 <p align=50%>
-<img src=../pix/background/name.png x=5 y=15>
+<img src=/e16themes/DarkOne/e16/ABOUT/../pix/background/name.png x=5 y=15>
 <br>
 <br>
 <br>

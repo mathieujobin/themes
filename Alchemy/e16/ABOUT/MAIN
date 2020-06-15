@@ -1,6 +1,6 @@
 <page columns=1 padding=8 name=front background=../artwork/common/bg.png>
 <font face=benjamingothic/30 color=#FFFFFF>
-<img src=../artwork/common/logo.png x=205 y=10>
+<img src=/e16themes/Alchemy/e16/ABOUT/../artwork/common/logo.png x=205 y=10>
 <br>
 <br>
 <br>

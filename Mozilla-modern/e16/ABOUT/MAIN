@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=bg.png linkcolor=#008800>
-<img src=splash.png x=105 y=40>
+<img src=/e16themes/Mozilla-modern/e16/ABOUT/splash.png x=105 y=40>
 <font face=aircut3/13 color=#ffffff>
 <p align=50%>
 <br><br><br><br><br><br><br><br><br><br><br>

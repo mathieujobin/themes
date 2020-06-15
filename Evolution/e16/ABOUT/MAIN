@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=pixel-blak.png linkcolor=#88dddd>
-<img src=evo-title.png x=160 y=30>
+<img src=/e16themes/Evolution/e16/ABOUT/evo-title.png x=160 y=30>
 <font face=vixar/14 color=#c4c4c4>
 
 <br>

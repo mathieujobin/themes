@@ -1,6 +1,6 @@
 <page columns=1 padding=16 name=front background=Edoc_bg.png linkcolor=#88dddd>
-<img src=title.png x=250 y=300>
-<img src=../common/images/a_fool.gif x=360 y=70>
+<img src=/e16themes/EvilJester/e16/ABOUT/title.png x=250 y=300>
+<img src=/e16themes/EvilJester/e16/ABOUT/../common/images/a_fool.gif x=360 y=70>
 <font face=aircut3/12 color=#ffffff>
 <p align=0%>
 <br>

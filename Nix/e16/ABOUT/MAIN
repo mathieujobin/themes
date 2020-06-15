@@ -1,7 +1,7 @@
 <page columns=1 padding=12 name=index background=Edoc_bg.jpg linkcolor=#7b68ee>
 <font face=1979/20 color=#000000>
 <br>
-<img src=nix.png x=172 y=55>
+<img src=/e16themes/Nix/e16/ABOUT/nix.png x=172 y=55>
 <br>
 <br>
 <br>
@@ -134,7 +134,7 @@ _back(index)
 <br>
 <br>
 <br>
-<img src=aclass.png x=100 y=90>
+<img src=/e16themes/Nix/e16/ABOUT/aclass.png x=100 y=90>
 <br>
 <br>
 <br>
@@ -166,7 +166,7 @@ _back(config)
 
 	Then define the new item in "wharf/wharf_buttons.cfg" ; <br>
 	
-<img src=bclass.png x=100 y=70>
+<img src=/e16themes/Nix/e16/ABOUT/bclass.png x=100 y=70>
 <br>
 <br>
 <br>
@@ -200,7 +200,7 @@ _next(slide)
 <br>
 <br>	
 <br>
-<img src=slide.png x=100 y=70>
+<img src=/e16themes/Nix/e16/ABOUT/slide.png x=100 y=70>
 <br>
 <br>
 <br>

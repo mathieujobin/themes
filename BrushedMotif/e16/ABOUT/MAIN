@@ -1,5 +1,5 @@
 <page columns=1 padding=16 name=front background=Edoc_bg.png linkcolor=#a0a0b0>
-<img src=../pix/logo.png x=0 y=0>
+<img src=/e16themes/BrushedMotif/e16/ABOUT/../pix/logo.png x=0 y=0>
 <font face=arial/10 color=#000000>
 <p align=50%>
 <br>
